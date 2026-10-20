@@ -1,0 +1,14 @@
+{
+  "name": "flash-usdt-testing-lab",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Educational blockchain transaction simulation and testing toolkit.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
