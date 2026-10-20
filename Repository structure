@@ -1,0 +1,18 @@
+flash-usdt-testing-lab/
+│
+├── README.md
+├── LICENSE
+├── .gitignore
+├── .env.example
+├── package.json
+│
+├── docs/
+│   ├── GETTING_STARTED.md
+│   ├── SAFETY.md
+│   └── TOKEN_STANDARDS.md
+│
+├── src/
+│   └── index.js
+│
+└── test/
+    └── simulation.test.js
